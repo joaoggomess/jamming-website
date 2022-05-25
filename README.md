@@ -5,7 +5,7 @@ you also have to put the local URI. Both changes are made in the spotify.js docu
 
 I am continuosly improving some features of the App. If you have some hints on it, please let me know!
 
-Youn can contact me on my e-mail or instagram @joggomess.
+Youn can contact me on my e-mail or instagram @joaoggomess.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
