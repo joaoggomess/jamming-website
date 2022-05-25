@@ -1,5 +1,5 @@
-const clientID = "c6fb09192aab424c80203b6a9c66032e";
-const URI = "http://localhost:3000/";
+const clientID = "....";
+const URI = "...";
 let accessToken;
 
 
