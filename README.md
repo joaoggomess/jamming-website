@@ -1,3 +1,10 @@
+Hello, I am joão Gomes, and that's my first go on working with API trhough React. 
+
+I am continuosly improving some features of the App. If you have some hints on it, please let me know!
+
+Youn can contact me on my e-mail or instagram @joggomess.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
